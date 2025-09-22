@@ -1,6 +1,5 @@
 # AIO Dev Tools
-
-> 🚀 **All-in-One Dev Tools** — Bug Finder, Transaction Explainer, Solidity Playground, and Chain Health Monitor.
+Bug Finder, Transaction Explainer, Solidity Playground, and Chain Health Monitor.
 
 ---
 
